@@ -1,6 +1,6 @@
-# Solidaristická asociace
+# Koncept solidaristické asociace
 
-##Princip:
+## Princip:
 - 1) zaměstnavatel a skupina nejméně 12 zaměstnanců založí solidaristickou asociaci
 - 2) každý člen-.zaměstnanec měsíčně povinně-(dobrovolně) spoří 5 % svého platu do fondu této asociace
 - 3) každý měsíc zaměstnavatel/firma povinně doplňuje do fondu (na účet každého zaměstnance) odpovídající částku 5 % (tedy částka 10 % patří zaměstnanci)
