@@ -6,10 +6,10 @@ Kdo splní podmínky, bude osvobozen od části pohostinských povinností.
 - roční obrat je pod 1M ročně
 - pohostinství, prodej nebo produkce jídla
 
-### případ OSVČ
+### Případ OSVČ
 - zaměstnává maximálně 2 lidi
 
-### případ s.r.o.
+### Případ s.r.o.
 - nemá zisk (zisk je pod 10tis. ročně)
 - všichni majitelé jsou zaměstnanci
 
