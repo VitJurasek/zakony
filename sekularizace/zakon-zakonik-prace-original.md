@@ -78,7 +78,8 @@ Zaměstnanci, jemuž nevzniklo právo na dovolenou za kalendářní rok ani na j
 #### Díl 3
 ### Hromadné čerpání dovolené
 ### § 220
-Zaměstnavatel může v dohodě s odborovou organizací a se souhlasem rady zaměstnanců určit hromadné čerpání dovolené, jen jestliže je to nezbytné z provozních důvodů; hromadné čerpání dovolené nesmí činit více než 2 týdny a u uměleckých souborů 4 týdny.
+(1) Zaměstnavatel může v dohodě s odborovou organizací a se souhlasem rady zaměstnanců určit hromadné čerpání dovolené, jen jestliže je to nezbytné z provozních důvodů; hromadné čerpání dovolené nesmí činit více než 2 týdny a u uměleckých souborů 4 týdny.
+(2) V případě neexistující odborové organizace musí zaměstnavatel hromadné čerpání dovolené kompenzovat každému dotčenému zaměstnanci jedním dnem dovolené za každý započatý týden hromadného čerpání.
 
 #### Díl 4
 ### Změna zaměstnání
