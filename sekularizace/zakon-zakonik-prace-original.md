@@ -20,10 +20,10 @@ Zaměstnanci, který vykonává zaměstnání v pracovním poměru, vzniká za p
 <br>(3) Poměrná část dovolené přísluší v délce jedné dvanáctiny též za kalendářní měsíc, v němž zaměstnanec změnil zaměstnání, pokud skončení pracovního poměru u dosavadního zaměstnavatele a vznik pracovního poměru u nového zaměstnavatele na sebe bezprostředně navazují; zaměstnanci přísluší v takovém případě poměrná část dovolené od nového zaměstnavatele.
 <br>(4) Byl-li zaměstnanec dlouhodobě plně uvolněn pro výkon veřejné funkce, je povinna mu dovolenou nebo její část poskytnout právnická nebo fyzická osoba, pro kterou je uvolněný zaměstnanec činný; tato právnická nebo fyzická osoba je povinna mu poskytnout též tu část dovolené, kterou nevyčerpal před uvolněním. Nevyčerpal-li zaměstnanec dovolenou před uplynutím doby uvolnění, je povinen mu ji poskytnout uvolňující zaměstnavatel. Splnění podmínek pro vznik práva na dovolenou se přitom posuzuje vcelku za dobu před i po uvolnění.
 ### § 213
-<br>(1) Výměra dovolené činí nejméně 4 týdny v kalendářním roce.
-<br>(2) Dovolená zaměstnanců zaměstnavatelů uvedených v § 109 odst. 3 činí 5 týdnů v kalendářním roce.
-<br>(3) Dovolená pedagogických pracovníků47) a akademických pracovníků vysokých škol72) činí 8 týdnů v kalendářním roce.
-<br>(4) Čerpá-li dovolenou zaměstnanec s pracovní dobou nerovnoměrně rozvrženou na jednotlivé týdny nebo na období celého kalendářního roku, přísluší mu tolik pracovních dnů dovolené, kolik jich podle rozvržení pracovní doby na dobu jeho dovolené připadá v celoročním průměru.
+<br>(1) Výměra dovolené činí nejméně ~~4 týdny~~**25 dní** v kalendářním roce.
+<br>(2) Dovolená zaměstnanců zaměstnavatelů uvedených v § 109 odst. 3 činí ~~5 týdnů~~**30 dní** v kalendářním roce.
+<br>(3) Dovolená pedagogických pracovníků 47) a akademických pracovníků vysokých škol 72) činí ~~8 týdnů~~**45 dní** v kalendářním roce.
+~~<br>(4) Čerpá-li dovolenou zaměstnanec s pracovní dobou nerovnoměrně rozvrženou na jednotlivé týdny nebo na období celého kalendářního roku, přísluší mu tolik pracovních dnů dovolené, kolik jich podle rozvržení pracovní doby na dobu jeho dovolené připadá v celoročním průměru.~~ **vynechán**
 <br>(5) Dochází-li u zaměstnance v průběhu kalendářního roku ke změně rozvržení pracovní doby, přísluší mu za tento rok dovolená v poměru, který odpovídá délce příslušného rozvržení pracovní doby.
 <br>(6) Vláda může nařízením stanovit pro zaměstnance v drážní dopravě s nerovnoměrně rozvrženou pracovní dobou podle § 100 odst. 1 písm. c) podmínky, za kterých může být poskytována dovolená v kalendářních dnech.
 #### Díl 2
